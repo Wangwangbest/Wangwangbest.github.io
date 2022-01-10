@@ -12,7 +12,7 @@
       <p><b>地址：长春市朝阳区前进大街2699号吉林大学，邮编130012</b></p>
     </td>
     <td width="25%">
-      <img src="/DG7FY}MZ38K`$1(SZVFZYLG.png" width="100%">      % 插入证件照代码
+      <img src="/DG7FY}MZ38K`$1(SZVFZYLG.png" width="100%">   
     </td>
   </tr>
 </table>

@@ -9,10 +9,10 @@
       <p><b>硕士研究生在读</b></p>
       <p><b>吉林大学计算机学院</b></p>
       <p><b>邮箱：757643009@qq.com</b></p>
-      <p><b>地址：长春市朝阳区前进大街2699号吉林大学，邮编×××</b></p>
+      <p><b>地址：长春市朝阳区前进大街2699号吉林大学，邮编130012</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/DG7FY}MZ38K`$1(SZVFZYLG.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>

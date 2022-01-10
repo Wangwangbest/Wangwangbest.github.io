@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 汪士钦
+这是我的个人主页呢！
 
-You can use the [editor on GitHub](https://github.com/Wangwangbest/wangwang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+#### 姓名： 汪士钦
+#### 出生年月： 1999.10
+#### 学历： 本科
+#### 邮箱： 757643009@qq.com 
+#### 手机： 17519243816
+#### 联系地址： 吉林省长春市吉林大学
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 最新消息
+1. 最近在研究无障碍
+2. 最近在研究网页的弹窗
 
-### Markdown
+### 研究方向
+- 网页
+- 无障碍
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 荣誉奖励
+- 奖学金：获得过校二等奖学金
+- 荣誉称号： 获得过专业摸鱼冠军称号
+- 奖项：曾在20人参与的摸鱼大赛中，崭露头角
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wangwangbest/wangwang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 参与项目
+- **项目一**
+#### 专业摸鱼项目：
+1. 先进行了一下小摸
+2. 再进行了大摸
+3. 最后疯狂摸
+4. 成为摸鱼的神
+-**项目二**
+#### 划水锦标赛：
+1. 有幸参与宿舍举办的划水比赛
+2. 比赛非常的精彩
+3. 大火都疯狂划水
+4. 最后我成功胜利！

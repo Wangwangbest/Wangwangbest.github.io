@@ -2,7 +2,7 @@
 欢迎来到我的主页！
 
 ### 基本信息
-<table border="0">
+<table border="none">
   <tr>
     <td width="75%">
       <h1>刘华虓</h1>

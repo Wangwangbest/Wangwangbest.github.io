@@ -16,7 +16,7 @@
       <p><b>个人主页：	https://huaxiaoliu.github.io/
 </b></p>
     </td>
-    <td width="25%">
+    <td width="40%">
       <img src="/Teacher Liu.jpg" width="100%">   
     </td>
   </tr>

@@ -29,7 +29,7 @@
 
 
 ## 2017年以来发表的代表性学术论文
-1.  Mengxi Zhang, <font color = '#1E90FF'>Huaxiao Liu&#42;</font>, Chunyang Chen, Yuzhou Liu, Shuotong Bai. Consistent or not? An Investigation of Using Pull Request Template in GitHub. ***Information and Software Technology*** (2022.4 CCF-B 中科院1区)
+1.  Mengxi Zhang, <font color = #1E90FF>Huaxiao Liu&#42;</font>, Chunyang Chen, Yuzhou Liu, Shuotong Bai. Consistent or not? An Investigation of Using Pull Request Template in GitHub. ***Information and Software Technology*** (2022.4 CCF-B 中科院1区)
 2.  Huaxiao Liu, Mengxi Zhang, Lei Liu, Zhou Liu. A method to acquire cross-domain requirements based on Syntax Direct Technique. ***Software:Practice and Experience***  (2022.01 CCF-B)
 3.  Huaxiao Liu, Xinglong Yin, Shanshan Song, Shanquan Gao, Mengxi Zhang. Mining Detailed Information from Description for App Functions Comparison. ***IET Software***  (2021.09在线发表CCF-B)
 4.  Lei Liu, Xiu Ma, Huaxiao Liu*, Guang-li Li, and Lei Liu. FlexPDA: A Flexible Programming Framework for Deep Learning Accelerators. ***Journal of Computer Science& Technology***  (2021.9在线发表 CCF-B)

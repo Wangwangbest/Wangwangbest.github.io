@@ -40,7 +40,7 @@
 10.  Yuzhou Liu, Lei Liu, **Huaxiao Liu&#42;**, Shanquan Gao. Combining Goal Model with Reviews for Supporting the Evolution of APPs. ***IET Software***（2020.02 CCF-B）
 11.  Yuzhou Liu, Lei Liu, **Huaxiao Liu&#42;**, Xinglong Yin. App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews. ***Software:Practice and Experience*** (2019.06 CCF-B)
 12.  Yuzhou Liu, Lei Liu, **Huaxiao Liu&#42;**, Xiaoyu Wang. Analyzing Reviews Guided by App Description for the Software Development and Evolution. ***Journal of Software-Evolution and Process***(2018.12 CCF-B) 
-13.  Yuzhou Liu, Lei Liu, **Huaxiao Liu&#42;**;, Xiaoyu Wang, Hongji Yang. Mining Domain Knowledge from App Descriptions. ***Journal of System and Software*** (2017.11 CCF-B)
+13.  Yuzhou Liu, Lei Liu, **Huaxiao Liu&#42;**, Xiaoyu Wang, Hongji Yang. Mining Domain Knowledge from App Descriptions. ***Journal of System and Software*** (2017.11 CCF-B)
 14.  **Huaxiao Liu**, Yuzhou Liu, Lei Liu. The Verification of Program Relationships in the Context of Software Cybernetics. ***Journal of Systems and Software*** (2017.02 CCF-B)
 
 ## 人才培养

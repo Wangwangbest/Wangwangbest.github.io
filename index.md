@@ -2,6 +2,7 @@
   <tr>
     <td width="60%">
       <h1>刘华虓</h1>
+      <p><b>任职：吉林大学</b></p>
       <p><b>职称：副教授</b></p>
       <p><b>招生资格：	硕士、博士研究生</b></p>
       <p><b>学科专业：	计算机软件与理论</b></p>
@@ -9,8 +10,6 @@
       <p><b>Email：	liuhuaxiao@jlu.edu.cn</b></p>
       <p><b>QQ：	466530609</b></p>
       <p><b>办公地点：	计算机楼B232</b></p>
-      <p><b>个人主页：	https://huaxiaoliu.github.io/
-</b></p>
     </td>
     <td width="150%">
       <img src="/Teacher Liu.jpg" width="100%">   
